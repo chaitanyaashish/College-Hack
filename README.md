@@ -5,6 +5,7 @@ Our website provides a platform for the students to know about the scenario or t
 -Due to fluctuations in the timings as well as the menu of the canteen or mess, so in order to solve this probem we in our website will display if the canteen is open or not and what are the available items present at that moment.
 -Students in need of medical care can find out which doctors along with their specialization are present in the college dispensary.
 -Our website also informs the students about the upcoming events and the important news feed related to examinations and other important notices.
+IBM cloud services:Our project is based on MYSQL so IBM cloud does not provide free services to use MYSQL.Inorder to use certain services we have created a repository of our project on IBM cloud,and further Devops can be used to pipeline and migrate the project to bluemix.net.
 
 Platform Dependencies:
 WAMP Server which is the Apache MYSQL-PHP stack in order to run the backend on PHP and manage MySQL and the UX.
